@@ -4,6 +4,6 @@ The research employed comprehensive statistical analysis  including exploratory 
 ## Dataset is used from Kaggle
 <a href="https://github.com/K-Thamilpiriya/Statistical-modeling---RStudio/blob/main/student_habits_performance.csv">Students Habits Performance</a>
 ## Sourse code
-
+<a href="https://github.com/K-Thamilpiriya/Statistical-modeling---RStudio/blob/main/group1.Rmd">RCode</a>
 ## Report
 <a href="https://github.com/K-Thamilpiriya/Statistical-modeling---RStudio/blob/main/Final_%20report_Stat_Modeling.pdf"> Final-Report</a>
